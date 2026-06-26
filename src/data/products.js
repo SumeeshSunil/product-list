@@ -5,7 +5,7 @@ export const products = [
     price: 599,
     category: 'Electronics',
     rating: 4.5,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/wireless mouse.webp',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const products = [
     price: 2499,
     category: 'Electronics',
     rating: 4.7,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/keyboard.webp',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const products = [
     price: 399,
     category: 'Clothing',
     rating: 4.0,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/tshirt.webp',
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const products = [
     price: 1899,
     category: 'Clothing',
     rating: 4.2,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/jacket.webp',
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const products = [
     price: 499,
     category: 'Home',
     rating: 4.6,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/bottle.webp',
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const products = [
     price: 899,
     category: 'Home',
     rating: 4.3,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/nonstick.jfif',
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const products = [
     price: 1299,
     category: 'Electronics',
     rating: 4.1,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/speaker.webp',
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const products = [
     price: 2199,
     category: 'Footwear',
     rating: 4.8,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/shoes.webp',
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const products = [
     price: 699,
     category: 'Accessories',
     rating: 3.9,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/wallet.webp',
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const products = [
     price: 999,
     category: 'Accessories',
     rating: 4.4,
-    image: 'https://via.placeholder.com/150',
+    image: '/images/sunglass.webp',
   },
 ];
